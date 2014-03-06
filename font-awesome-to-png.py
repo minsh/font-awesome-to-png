@@ -120,6 +120,7 @@ icons = {
     "comments-o": u("\uf0e6"),
     "compass": u("\uf14e"),
     "compress": u("\uf066"),
+    "edit": u("\uf044"),
     "credit-card": u("\uf09d"),
     "crop": u("\uf125"),
     "crosshairs": u("\uf05b"),
