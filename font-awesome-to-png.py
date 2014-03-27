@@ -356,6 +356,7 @@ icons = {
     "volume-down": u("\uf027"),
     "volume-off": u("\uf026"),
     "volume-up": u("\uf028"),
+    "warning": u("\uf071"),
     "weibo": u("\uf18a"),
     "wheelchair": u("\uf193"),
     "windows": u("\uf17a"),
